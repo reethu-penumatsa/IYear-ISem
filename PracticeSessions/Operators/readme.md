@@ -1,1 +1,3 @@
     
+##Output Obtained
+![Operators.png]
