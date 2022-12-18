@@ -1,3 +1,3 @@
     
 ##Output Obtained
-![Operators.png]
+!(Operators.png)
