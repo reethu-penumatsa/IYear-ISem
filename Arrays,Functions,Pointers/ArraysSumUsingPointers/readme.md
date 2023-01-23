@@ -11,4 +11,4 @@
     
 ###Output Obtained
 
-![Test_Image_1](ArraysReverseElements.png)
+![Test_Image_1](ArraysSumUsingPointers.png)
